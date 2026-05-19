@@ -2,9 +2,9 @@
 
 <br/>
 
-# NOMBRE APELLIDO
+# Laura Pérez
 
-**Software Developer**
+**Estudiante de Ingeniería en Software · II Año**
 
 `PostgreSQL` &nbsp;`MongoDB` &nbsp;`Java` &nbsp;`Python` &nbsp;`C++` &nbsp;`SQL` &nbsp;`RAD Studio` &nbsp;`Git`
 
@@ -16,7 +16,7 @@
 
 ## About
 
-Desarrollador enfocado en soluciones de software robustas y escalables. Con experiencia en gestión de bases de datos relacionales y no relacionales, desarrollo backend y automatización de procesos. Orientado a la escritura de código limpio, mantenible y eficiente.
+Estudiante de segundo año de Ingeniería en Software con interés en el desarrollo de soluciones backend y gestión de bases de datos. Actualmente consolidando conocimientos en múltiples lenguajes de programación y herramientas de control de versiones, con enfoque en buenas prácticas de desarrollo y código limpio.
 
 <br/>
 
@@ -47,9 +47,9 @@ Desarrollador enfocado en soluciones de software robustas y escalables. Con expe
 
 <div align="center">
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=lauraperez&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff"/>
 &nbsp;
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=6&theme=default&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraperez&layout=compact&langs_count=6&theme=default&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff"/>
 
 </div>
 
@@ -57,9 +57,8 @@ Desarrollador enfocado en soluciones de software robustas y escalables. Con expe
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-tuemail@example.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:tuemail@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TU_USUARIO-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![GitHub](https://img.shields.io/badge/GitHub-TU_USUARIO-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura_Pérez-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lauraperez)
+[![GitHub](https://img.shields.io/badge/GitHub-lauraperez-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/lauraperez)
 
 <br/>
 
@@ -67,6 +66,6 @@ Desarrollador enfocado en soluciones de software robustas y escalables. Con expe
 
 <div align="center">
 
-<sub>© 2026 · TU_USUARIO</sub>
+<sub>© 2026 · Laura Pérez</sub>
 
 </div>
